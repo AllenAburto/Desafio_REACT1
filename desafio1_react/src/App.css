@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  padding: 50px 0px;
+  
+}
+
+.titulo {
+  background-color: aqua;
+  border-radius: 50px;
+  border: black solid 1px;
+}
+
+.footer {
+  background-color: aqua;
+  border-radius: 50px;
+  border: black solid 1px;
+  color: blue;
+  padding: 15px 5px;
+}
